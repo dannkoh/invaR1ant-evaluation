@@ -1,0 +1,1 @@
+{[ss,ss0,ss2,ss1] : ss2>=ss&&ss2!=ss&&ss1>=ss&&ss1!=ss&&ss0>=ss&&ss0!=ss&&ss1>ss2&&ss1>=ss2&&ss0>ss2&&ss0>=ss2&&ss0>ss1&&ss0>=ss1};
